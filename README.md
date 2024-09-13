@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
-<h3 align="center">A passionate PHP developer from Moldova</h3>
+<h3 align="center">A passionate FullStack Developer with PHP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danplaton4&label=Profile%20views&color=0e75b6&style=flat" alt="danplaton4" /> </p>
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **php, symfony**
+- 💬 Ask me about **PHP, Symfony, JavaScript, React**
 
 - 📫 How to reach me **danplaton4@gmail.com**
 
